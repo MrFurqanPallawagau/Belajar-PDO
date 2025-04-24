@@ -1,0 +1,1 @@
+SELECT * FROM `belajar_php_database`.`customers` LIMIT 1000;
